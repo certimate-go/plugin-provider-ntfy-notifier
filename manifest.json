@@ -1,0 +1,15 @@
+{
+  "access_provider_type": "ntfy",
+  "binary": "ntfy.exe",
+  "capability": "notify",
+  "description": "Send notifications to an ntfy topic.",
+  "display_name_key": "plugin.ntfy.name",
+  "icon": "icon.png",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "ntfy",
+  "usages": [
+    "notification"
+  ],
+  "version": "0.2.2"
+}
